@@ -7543,11 +7543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Team_\\Interview\\DriveCentric\\WebAppCQRS\\WebAppCQRS\\WebAppCQRS.csproj",
+      "projectUniqueName": "D:\\_Team_\\Interview\\DriveCentric\\webApi\\WebAppCQRS\\WebAppCQRS.csproj",
       "projectName": "WebAppCQRS",
-      "projectPath": "D:\\_Team_\\Interview\\DriveCentric\\WebAppCQRS\\WebAppCQRS\\WebAppCQRS.csproj",
+      "projectPath": "D:\\_Team_\\Interview\\DriveCentric\\webApi\\WebAppCQRS\\WebAppCQRS.csproj",
       "packagesPath": "C:\\Users\\dzmitry.shchamialiou\\.nuget\\packages\\",
-      "outputPath": "D:\\_Team_\\Interview\\DriveCentric\\WebAppCQRS\\WebAppCQRS\\obj\\",
+      "outputPath": "D:\\_Team_\\Interview\\DriveCentric\\webApi\\WebAppCQRS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dzmitry.shchamialiou\\AppData\\Roaming\\NuGet\\NuGet.Config",

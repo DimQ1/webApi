@@ -39,7 +39,7 @@ namespace WebAppCQRS
             #region Swagger
             services.AddSwaggerGen(c =>
             {
-                c.IncludeXmlComments($"{System.AppDomain.CurrentDomain.BaseDirectory}\\WebAppCQRS.xml");
+                c.IncludeXmlComments($"{System.AppDomain.CurrentDomain.BaseDirectory}WebAppCQRS.xml");
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQgMf8uHciogM3xWhDok4/uCTtHJmIQiYVOC7GnOeZflVvSyqBUOsRLU2ZeFzoFbab6aCtM3ivZi+oC8QU3d8g==",
+  "dgSpecHash": "EOhOesy8Do1KOSGwS//40BNz0Lrnw67+qLmlFS8PXvSDl+Z0C5LAzKYzOVjdWBe+6lmDkhYhaBs/dwWcNfaqsQ==",
   "success": true,
-  "projectFilePath": "D:\\_Team_\\Interview\\DriveCentric\\WebAppCQRS\\WebAppCQRS\\WebAppCQRS.csproj",
+  "projectFilePath": "D:\\_Team_\\Interview\\DriveCentric\\webApi\\WebAppCQRS\\WebAppCQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dzmitry.shchamialiou\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\dzmitry.shchamialiou\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.2.3\\fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",
